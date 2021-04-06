@@ -1,15 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Gatsby Template`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `wowTerrific`,
+      summary: `Gatsby starter template w/ Gatsby's built in blog.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    description: `Template blog site.`,
+    siteUrl: `https://github.com/wowTerrific/gatsbyjs-template`,
   },
   plugins: [
     `gatsby-plugin-image`,
